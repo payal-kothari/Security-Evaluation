@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/payalkothari/AndroidStudioProjects/Security Evaluation/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/payalkothari/AndroidStudioProjects/Security Evaluation/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/payalkothari/AndroidStudioProjects/Example_Listview_clickable/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/payalkothari/AndroidStudioProjects/Example_Listview_clickable/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
