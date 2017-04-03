@@ -10,6 +10,7 @@
 5. GPS
 6. Unknown source app installation 
 
+
 * If bluetooth, wifi and gps is ON, the application gives five points to each otherwise it gives ten points.
 * If OS version is lower than Jelly Bean, the application gives five points otherwise it gives ten points.
 * If password is not set the application gives five points otherwise it gives ten points.
