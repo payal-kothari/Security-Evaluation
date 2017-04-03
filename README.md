@@ -20,3 +20,7 @@
 ### Screen shots:
 
 <img src="https://cloud.githubusercontent.com/assets/17986117/24620116/788f4696-186a-11e7-879e-9c8ece37d1d1.png" width="300">
+
+<img src="https://cloud.githubusercontent.com/assets/17986117/24620494/f6a132b4-186b-11e7-85eb-1f700c937766.png" width="300">
+
+
