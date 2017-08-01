@@ -1,7 +1,7 @@
 # Security-Evaluation
 
 
-### This application checks vulnerability of an Android by checking following six security factors:
+### This application checks vulnerability of an Android phone by checking following six security factors:
 
 1. Bluetooth
 2. OS Version 
